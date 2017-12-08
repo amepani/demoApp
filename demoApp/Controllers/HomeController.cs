@@ -11,7 +11,7 @@ namespace demoApp.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            ViewBag.msg = "Index page rendered";
+            ViewBag.msg = "Index page rendered......";
             return View();
         }
     }
